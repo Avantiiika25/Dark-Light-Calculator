@@ -1,1 +1,1 @@
-# Dark-Light-Calculator --- <a herf=" https://avantiiika25.github.io/Dark-Light-Calculator/">Live Demo/</a>
+# Dark-Light-Calculator --- <a herf=" https://avantiiika25.github.io/Dark-Light-Calculator">Live Demo/</a>
